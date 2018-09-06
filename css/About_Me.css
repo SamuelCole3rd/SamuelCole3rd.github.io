@@ -50,6 +50,14 @@ body{
     border-radius: 50%;
 }
 
+.download{
+    padding: 18px 0;
+}
+
+.project{
+    margin-bottom: 36px;
+}
+
 .contact{
     background-color: #0B0C10;
     color: #c5C6C7;
